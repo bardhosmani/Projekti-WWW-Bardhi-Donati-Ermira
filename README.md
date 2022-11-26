@@ -7,7 +7,7 @@ per me bo new commits:
 do some changes
 open terminal
 git checkout master
-git checkout -b Emri_i_branchit_te_ri
-i bon add changes nqet branch, masanej:
-git push (masanej e execute qat new message qe ta jep git-i)
+git add .
+git commit -m "Kallzon qa ke bo changes"
+git push
 ```
